@@ -6,6 +6,8 @@ Stop rebuilding the same auth, billing, landing, and deployment flows from scrat
 
 Use reusable workflows for Claude Code and VS Code, then ship faster with a more consistent process.
 
+[Quickstart guide](./QUICKSTART.md)
+
 ## Quick use
 
 1. Open your project in Claude Code or VS Code.
