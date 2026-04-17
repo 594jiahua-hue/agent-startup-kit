@@ -93,6 +93,15 @@ This template path is intended as the baseline demo target for the included skil
 
 These explain how to use the skills inside each AI coding workflow.
 
+## Examples
+
+Current before/after example docs:
+- `examples/before-after-auth/README.md`
+- `examples/before-after-billing/README.md`
+- `examples/before-after-landing/README.md`
+
+These help users quickly understand what each skill is expected to change before reading the full skill files.
+
 ## Roadmap
 
 ### v1
