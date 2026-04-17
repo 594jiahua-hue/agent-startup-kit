@@ -6,6 +6,17 @@ Stop rebuilding the same auth, billing, landing, and deployment flows from scrat
 
 Use reusable workflows for Claude Code and VS Code, then ship faster with a more consistent process.
 
+## Quick use
+
+1. Open your project in Claude Code or VS Code.
+2. Choose one skill:
+   - `ship-auth`
+   - `ship-billing`
+   - `ship-landing`
+3. Read the matching `skill.md` and `checklist.md`.
+4. Review the matching before/after example in `examples/`.
+5. Make changes in small steps.
+
 ## Why this project exists
 
 Indie hackers and small engineering teams often repeat the same setup work again and again:
