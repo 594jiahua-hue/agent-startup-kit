@@ -8,6 +8,8 @@ Use reusable workflows for Claude Code and VS Code, then ship faster with a more
 
 [Quickstart guide](./QUICKSTART.md)
 
+Docs: [Quickstart](./QUICKSTART.md) · [Skills](./skills/README.md) · [Examples](./examples/README.md) · [Adapters](./adapters/README.md) · [Templates](./templates/README.md)
+
 ## Quick use
 
 1. Open your project in Claude Code or VS Code.
