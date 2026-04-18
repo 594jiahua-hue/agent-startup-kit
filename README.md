@@ -1,6 +1,6 @@
 # agent-startup-kit
 
-![repo homepage preview](./%E6%88%AA%E5%B1%8F2026-04-18%2001.22.56.png)
+![repo homepage preview](<./截屏2026-04-18 01.22.56.png>)
 
 AI coding workflows and reusable skills for shipping SaaS fast.
 
