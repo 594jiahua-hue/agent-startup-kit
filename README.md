@@ -145,7 +145,7 @@ Please read `CONTRIBUTING.md` before opening a pull request.
 
 ---
 
-Maintained by [Blink Labs LLC](https://www.blinklabsllc.com)
+Maintained by [Blink Labs LLC](https://blinklabsllc.com)
 
 ## License
 
